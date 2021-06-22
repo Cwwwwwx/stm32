@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "key.h": "c",
+        "lcd.h": "c",
+        "rtc.h": "c",
+        "main.h": "c",
+        "cctype": "c",
+        "cfloat": "c",
+        "cstddef": "c",
+        "cstdint": "c",
+        "cstdio": "c",
+        "cstdlib": "c",
+        "cstring": "c",
+        "cwchar": "c",
+        "exception": "c",
+        "new": "c",
+        "typeinfo": "c",
+        "*.rh": "c",
+        "bh1750.h": "c",
+        "i2c.h": "c",
+        "dht11.h": "c",
+        "gpio.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "tim.h": "c",
+        "type_traits": "c",
+        "xmemory": "c",
+        "iic.h": "c"
+    }
+}
