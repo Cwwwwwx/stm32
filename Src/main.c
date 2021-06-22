@@ -209,7 +209,7 @@ int main(void)
   {
     /* USER CODE END WHILE */
     // Polling_CD4051();
-    // Device_init();
+    Device_init();
     function();
     key_scan_down();
     key_scan_up();
